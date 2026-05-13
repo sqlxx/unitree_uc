@@ -1,0 +1,5 @@
+#pragma once
+
+#define UNITREE_UC_VERSION_MAJOR 0
+#define UNITREE_UC_VERSION_MINOR 1
+#define UNITREE_UC_VERSION_PATCH 0
